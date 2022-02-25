@@ -10,7 +10,7 @@ from Bio import Entrez
 def download_pubmed(keyword): 
     """En esta función se llama a Entrez para hacer una busqueda en NCBI, conectandose al servidos sin la necesidad de descarar los datos."""
     #"Ecuador genomics [Title/Abstract]"
-    Entrez.email = "CORREO@gmail.com"
+    Entrez.email = "diego.vera@est.ikiam.edu.ec"
     handle = Entrez.esearch (db = "pubmed",
                              term = keyword,
                              usehistory = "y")
