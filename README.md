@@ -21,5 +21,5 @@ Modulos:
 
 
 Explicación de la data utilizada
-Ecuador gnomics  
+Ecuador gnomics, se ultiliza datos de ncbi de nucleoridos provenientes de la viuda negra y otros arácnidos de su género para realizar el ejercicio con de cladograma
 
